@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Avatailor]]></title>
         <description><![CDATA[Avatailor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/avatailor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 20:28:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 20:28:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/avatailor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Create your own energy</p>]]></description>
-            <link>undefined8a4c1494-2b22-4678-aeac-9044d5ec571b/index.html</link>
+            <link>https://thegrid.ai/avatailor/8a4c1494-2b22-4678-aeac-9044d5ec571b/index.html</link>
             <guid isPermaLink="false">8a4c1494-2b22-4678-aeac-9044d5ec571b</guid>
-            <pubDate>Wed, 16 Mar 2016 20:27:39 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 20:28:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

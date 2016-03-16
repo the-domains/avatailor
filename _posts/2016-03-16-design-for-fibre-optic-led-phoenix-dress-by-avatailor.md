@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Design for fibre optic LED phoenix dress, by Avatailor'
-datePublished: '2016-03-16T20:31:52.741Z'
-dateModified: '2016-03-16T20:31:30.609Z'
-title: ''
+description: ''
+datePublished: '2016-03-16T21:12:23.409Z'
+dateModified: '2016-03-16T20:58:21.653Z'
+title: 'Design for fibre optic LED phoenix dress, by Avatailor'
 author: []
+sourcePath: _posts/2016-03-16-design-for-fibre-optic-led-phoenix-dress-by-avatailor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-design-for-fibre-optic-led-phoenix-dress-by-avatailor.md
-published: true
 url: design-for-fibre-optic-led-phoenix-dress-by-avatailor/index.html
 _type: Article
 
